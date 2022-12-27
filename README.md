@@ -5,7 +5,7 @@
   - [Active Directory Home lab](https://github.com/abrown333/LABURL)
   - [Hello World!]()
   
-  <h2>📺 Certifications</h2>
+  <h2>📃 Certifications</h2>
 
   - [CompTIA ITF+](https://verify.CompTIA.org)
    
