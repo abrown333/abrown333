@@ -7,21 +7,31 @@
   <h2>📺 Certifications</h2>
 
   - [CompTIA ITF+](https://verify.CompTIA.org)
+   
   - [Google IT Support Professional](https://coursera.org/verify/professional-cert/ZPX6NLM6RZAE)
+   
   - [IBM Technical Support](https://coursera.org/verify/professional-cert/R4LFN8ZT2GSE)
+   
   - [IBM Cybersecurity Analyst](https://coursera.org/verify/professional-cert/5DLEHJ2PHPZJ)
+   
   - [IBM IT Fundamentals for Cybersecurity](https://coursera.org/verify/specialization/SMTPYEM8HSS3)
+   
   - [Security Analyst Fundamentals](https://coursera.org/verify/specialization/Y7FEW4L9TPDE)
+   
   - [Fundamentals of Computer Network Security](https://coursera.org/verify/specialization/EKN97AGRK7PC)
+   
   - [Google Data Analytics](https://coursera.org/verify/professional-cert/WSZBSX5JM944)
+   
   - [AWS Cloud Practitioner Essentials](https://coursera.org/verify/D86Y5P8M4SGZ)
+   
   - [Information Technology (IT) and Cloud Fundamentals](https://coursera.org/verify/specialization/C89YJ6VTC792)
+   
   - [Google Digital Marketing & E-commerce](https://coursera.org/verify/professional-cert/7YVNHZMLGFXB)
+   
   - [Google Project Management](https://coursera.org/verify/professional-cert/2TLNTGZJV7KB)
+   
   - [Microsoft 365 Fundamentals](https://coursera.org/verify/specialization/BLWM3H9UB52H)
-  - [Coming soon!](???)
-  - [Coming soon!](???)
-  - [Coming soon!](???)
+   
   - [Coming soon!](???)
 
 
