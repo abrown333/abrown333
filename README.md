@@ -57,7 +57,7 @@
 [twitter]: https://twitter.com/abrown3301
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/abrown33/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/anthony-brown-401b6b25b/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
