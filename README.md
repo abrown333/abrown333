@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home lab](https://github.com/abrown333/ActiveDirectoryLab)
+  - [Space Guy Python Game](https://github.com/abrown333/Space-Guy-Python-Game/blob/main/Space%20Guy.py)
   - [Hello World!]()
   
   <h2>📃 Certifications</h2>
