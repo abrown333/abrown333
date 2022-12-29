@@ -5,7 +5,7 @@
   - [Active Directory Home lab](https://github.com/abrown333/ActiveDirectoryLab)
   - [Hello World!]()
 
-  <h2>👨‍ Side Projects:</h2>
+  <h2>👨‍📽️ Side Projects:</h2>
   
   - [Space Guy Python Game](https://github.com/abrown333/Space-Guy-Python-Game)
   
@@ -42,9 +42,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-  - [Tutorial Active Directory Home lab](https://github.com/abrown333/LABURL)
-
-
+- [Tutorial Active Directory Home lab](https://github.com/abrown333/LABURL)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
