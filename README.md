@@ -60,7 +60,7 @@
 [<img align="left" alt="AnthonyBrown | Buymeacoffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />][buymeacoffee]
 
 [twitter]: https://twitter.com/abrown3301
-[youtube]:  youtube.com/@PacketGuy0
+[youtube]: https://www.youtube.com/@PacketGuy0/featured
 [instagram]: https://www.instagram.com/abrown33/
 [linkedin]: https://www.linkedin.com/in/anthony-brown-401b6b25b/
 [Buymeacoffee]: https://www.buymeacoffee.com/packetguy
