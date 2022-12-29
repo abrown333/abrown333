@@ -58,12 +58,15 @@
 [<img align="left" alt="AnthonyBrown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AnthonyBrown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AnthonyBrown | Buymeacoffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />][buymeacoffee]
+[<img align="left" alt="AnthonyBrown | Substack" width="22px" src="https://i.imgur.com/785W8eU.png" />][Substack]
+
 
 [twitter]: https://twitter.com/abrown3301
 [youtube]: https://www.youtube.com/@PacketGuy0/featured
 [instagram]: https://www.instagram.com/abrown33/
 [linkedin]: https://www.linkedin.com/in/anthony-brown-401b6b25b/
 [Buymeacoffee]: https://www.buymeacoffee.com/packetguy
+[Substack]: https://packetguy.substack.com/
 
 <!--
 **abrown/abrown333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
