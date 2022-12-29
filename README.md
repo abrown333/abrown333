@@ -53,11 +53,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AnthonyBrown | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AnthonyBrown | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AnthonyBrown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AnthonyBrown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AnthonyBrown | Buymeacoffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />][buymeacoffee]
+[<img align="left" alt="AnthonyBrown | YouTube" width="22px" src="https://i.imgur.com/untHn18.png" />][youtube]
+[<img align="left" alt="AnthonyBrown | Twitter" width="22px" src="https://i.imgur.com/Mz1Jr5E.png" />][twitter]
+[<img align="left" alt="AnthonyBrown | LinkedIn" width="22px" src="https://i.imgur.com/g8A6ppb.png" />][linkedin]
+[<img align="left" alt="AnthonyBrown | Instagram" width="22px" src="https://i.imgur.com/vqtrhGZ.png" />][instagram]
+[<img align="left" alt="AnthonyBrown | Buymeacoffee" width="22px" src="https://i.imgur.com/A2U8NkV.png" />][buymeacoffee]
 [<img align="left" alt="AnthonyBrown | Substack" width="22px" src="https://i.imgur.com/785W8eU.png" />][Substack]
 
 
