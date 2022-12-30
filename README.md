@@ -62,7 +62,7 @@
 [twitter]: https://twitter.com/abrown3301
 [youtube]: https://www.youtube.com/@PacketGuy0/featured
 [instagram]: https://www.instagram.com/abrown33/
-[linkedin]: https://www.linkedin.com/in/anthony-brown-401b6b25b/
+[linkedin]:  https://www.linkedin.com/in/anthonybrown33
 [Buymeacoffee]: https://www.buymeacoffee.com/packetguy
 [Substack]: https://packetguy.substack.com/
 
