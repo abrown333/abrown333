@@ -10,8 +10,10 @@
   - [Space Guy Python Game](https://github.com/abrown333/Space-Guy-Python-Game)
   
   <h2>📃 Certifications</h2>
-
-  - [CompTIA ITF+](https://verify.CompTIA.org)
+  
+  - [CompTIA A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=W2JN9620D860FN33)
+  
+  - [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=XBEH45G83456VNKF)
    
   - [Google IT Support Professional](https://coursera.org/verify/professional-cert/ZPX6NLM6RZAE)
    
