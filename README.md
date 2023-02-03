@@ -8,6 +8,7 @@
   <h2>👨‍📽️ Side Projects:</h2>
   
   - [Space Guy Python Game](https://github.com/abrown333/Space-Guy-Python-Game)
+  - [FFXI Lua Code] 
   
   <h2>📃 Certifications</h2>
   
