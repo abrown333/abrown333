@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home lab](https://github.com/abrown333/ActiveDirectoryLab)
-  - [Hello World!]()
+  - [Hello World!](https://github.com/abrown333/FFXI-Lua-Code)
 
   <h2>👨‍📽️ Side Projects:</h2>
   
