@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/abrown333/abrown333/">Programmer</a>, <a href="https://www.linkedin.com/in/abrown/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@PacketGuy0">YouTuber</a></h1>
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/abrown333/abrown333/">Programmer</a>, <a href="https://www.linkedin.com/in/anthonybrown33//">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@PacketGuy0">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
